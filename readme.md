@@ -27,3 +27,10 @@ En fait Github est une version en ligne de Time Machine que tu utilises pour tes
 Bonne soirée.
 
 °°°°
+
+Après discussion orale avec Eric, nous avons décidé d'ouvrir ce thème à titre d'exercice aux membres du groupe 'Mon 1er thème WP...' sur FB pour s'y entraîner et SURTOUT pouvoir facilement montrer des fichiers de code à nos gentils Jedi ;-)
+Depuis cette 1ère discussion, Eric a lancé l'idée de présenter le maniement de Git à ceux qui seront intéressés et présents vendredi 6 mars à 21h sur join.me (rdv sur le groupe, Eric ?). Vous serez donc peut-être plusieurs à débarquer comme moi sur Github et à vous lancer dans le 'commit' d'enfer ^^ ... 
+
+VOUS êtes donc ici dans le MASTER de Cumulonimbus, un thème collectif auquel chacun pourra contribuer en apportant sa branche !
+On en reparle très vite.
+@++ Tita
